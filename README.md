@@ -2,6 +2,12 @@
 
 다양한 직군을 위한 AI 도구 추천 및 비교 플랫폼
 
+# ENV SHOT
+<img width="1343" height="879" alt="image" src="https://github.com/user-attachments/assets/2f91822b-fd8b-4d78-80b9-2f06599ced3f" />
+<img width="1264" height="872" alt="image" src="https://github.com/user-attachments/assets/9c3b54e1-96f2-45c1-88ca-538dba561299" />
+<img width="1253" height="795" alt="image" src="https://github.com/user-attachments/assets/45ea7e6f-ce6d-443c-92e2-747d48cd6ab6" />
+
+
 ## Projects
 
 PM, 마케터, 세일즈, 디자이너, 개발자 등 다양한 직군의 실무자들이 업무에 활용할 수 있는 AI 도구를 쉽게 찾고, 비교하고, 학습할 수 있는 플랫폼입니다.
