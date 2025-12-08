@@ -281,7 +281,7 @@ export default function Home() {
             <Button
               variant="secondary"
               size="lg"
-              className="bg-white text-primary-600 hover:bg-gray-50"
+              className="!bg-white !text-primary-600 hover:!bg-gray-50 shadow-xl border-2 border-white hover:shadow-2xl transition-all"
             >
               무료로 시작하기
             </Button>
